@@ -1,2 +1,3 @@
-# Portfolio-Website
-This repository contains files used to build my portfolio website.
+# Portfolio Website
+
+This is a website to showcase my personal projects.
