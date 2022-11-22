@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Zecil Jain Portfolio Website", page_icon="🖖")
-st.set_page_config(layout='wide')
+st.set_page_config(page_title="Zecil Jain Portfolio Website", page_icon="🖖",layout='wide')
 st.markdown(""" <style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
