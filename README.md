@@ -1,3 +1,3 @@
 # Portfolio Website
 
-This is a website to showcase my personal projects.
+This repository contains all the files that I've used in creating my portfolio website, created using Streamlit and hosted on Heroku server.
