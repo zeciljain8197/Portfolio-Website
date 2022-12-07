@@ -1,3 +1,4 @@
 # Portfolio Website
 
-This repository contains all the files that I've used in creating my portfolio website, created using Streamlit and hosted on Heroku server.
+- This repository contains all the files that I've used in creating my older version of portfolio website. 
+- Github has been used for storing files whereas Streamlit has been used to host the website.
